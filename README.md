@@ -2,8 +2,6 @@
 
 <h3 align="center">A passionate DATA ANALYST from India</h3>
 
-- 🔭 I’m currently working in **Kulture Hire Internship**
-
 - 🌱 I’m currently learning **Data Analysis**
 
 - 📫 How to reach me **Vinayakkongari19@gmail.com**
