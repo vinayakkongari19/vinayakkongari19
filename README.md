@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Analysis**
 
-- 👨‍💻 All of my projects are available at [https://65c4aa212a441702f1c91cdf--vinayak19-portfolio.netlify.app/](https://65c4aa212a441702f1c91cdf--vinayak19-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [vinayakkongari.netlify.app](https://vinayakkongari.netlify.app)
 
 - 📫 How to reach me **vinayakkongari19@gmail.com**
 
